@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlaveniRanjith
 - 👀 I’m interested in development
-- 🌱 I’m currently learning PG course on DASSD
+- 🌱 I’m currently working as Project Engineer @ CDAC Hyderabad
 - 📫 How to reach me ilaveniranjith9009@gmail.com
 
 <!---
